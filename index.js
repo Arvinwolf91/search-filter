@@ -1,4 +1,4 @@
 import { AppRegistry } from 'react-native';
-import App from './App';
+import RecipeList from './src/RecipeList';
 
-AppRegistry.registerComponent('searchfilter', () => App);
+AppRegistry.registerComponent('searchfilter', () => RecipeList);
